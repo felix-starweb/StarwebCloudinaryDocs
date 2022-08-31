@@ -17,3 +17,5 @@
         - Press Save in the top right. 
 
 - Send CloudName and application name to Starweb
+
+- Your images will be saved in a folder for the current date. The name will be the time someone uploaded the picture, for example 145820 means 14:58:20.
